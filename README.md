@@ -1,43 +1,33 @@
-# test12 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# ReadMe Using Command Line 
 
-## License
-
-This project is licensed under the [gnuplv3 license](https://www.gnu.org/licenses/gpl-3.0).
 
 ## Description
 
-test12
+Makeing a readMe is less complicated using command line and node.
 
 ## Table of Contents
 
-- [Installation](#installation)
+
 - [Usage](#usage)
-- [Test](#test)
+
 
 - [Questions](#questions)
 
 
-## Installation
-
-test
 
 ## Usage
 
-test 
+Using your terminal type in node index.js There will be a series of prompt questions. Fill out each question as needed, questions left blank will be left out of the readMe when it is made. After you are done filling out all the questions it will generate a readMe file for you.
 
-## Test
-
-test
 
 
 ## Questions
 
 For questions, please contact:
 
-- Email: test
-- GitHub: test
+- Email: smilie_kay@yahoo.com
+- GitHub: github.com/SmilieKay
 
-
-## License
-
-This project is licensed under the [gnuplv3 license](https://www.gnu.org/licenses/gpl-3.0).
+## Images 
+a  picture of my code 
+![a picture of my code ](./imagesForReadMe/Screenshot%202023-04-11%20015007.png)
